@@ -12,6 +12,9 @@
     </p>
   </description>
   <url type="homepage">https://www.gitter.im/</url>
+  <releases>
+    <release version="3.1.0" date="2016-08-16"/>
+  </releases>
   <content_rating type="oars-1.0">
     <content_attribute id="violence-cartoon">none</content_attribute>
     <content_attribute id="violence-fantasy">none</content_attribute>
