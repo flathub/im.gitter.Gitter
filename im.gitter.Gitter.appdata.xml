@@ -11,6 +11,11 @@
       connect communities through messaging, content and discovery.
     </p>
   </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://i.imgur.com/wT0bSy2.png</image>
+    </screenshot>
+  </screenshots>
   <url type="homepage">https://www.gitter.im/</url>
   <releases>
     <release version="3.1.0" date="2016-08-16"/>
