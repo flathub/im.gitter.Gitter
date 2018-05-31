@@ -1,6 +1,5 @@
 {
   "app-id": "im.gitter.Gitter",
-  "branch": "stable",
   "base": "io.atom.electron.BaseApp",
   "base-version": "stable",
   "runtime": "org.freedesktop.Sdk",
