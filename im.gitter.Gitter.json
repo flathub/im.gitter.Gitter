@@ -35,14 +35,14 @@
         {
           "type": "file",
           "only-arches": ["x86_64"],
-          "url": "https://update.gitter.im/linux64/gitter_3.1.0_amd64.deb",
-          "sha256": "dcdba2d424aefe0503a3c4e54f02102a0b336a054e13057cfd78fd7428122f08"
+          "url": "https://update.gitter.im/linux64/gitter_4.1.0_amd64.deb",
+          "sha256": "71f113104277682c6b1fd9a3f70533954363719e688ea4f3ff6c737f454cdebe"
         },
         {
           "type": "file",
           "only-arches": ["i386"],
-          "url": "https://update.gitter.im/linux32/gitter_3.1.0_i386.deb",
-          "sha256": "b87a6e2f09dee19ed65e7912dbc956fac096740ccdea36aaa528ca3a30f0e8d5"
+          "url": "https://update.gitter.im/linux32/gitter_4.1.0_i386.deb",
+          "sha256": "e3b23ef90937dd84ae538469ea2a89bc506f598ae6de0ef1177eb77e22fcd7d4"
         },
         {
           "type": "file",
@@ -50,8 +50,8 @@
         },
         {
           "type": "archive",
-          "url": "https://gitlab.com/gitlab-org/gitter/desktop/-/archive/3.1.0/desktop-3.1.0.tar.gz",
-          "sha256": "5721e425f6cc1146468f400313a99c5aa683aba4f41127b6c7d12209db5115fe"
+          "url": "https://gitlab.com/gitlab-org/gitter/desktop/-/archive/4.1.0/desktop-4.1.0.tar.gz",
+          "sha256": "a4bb8a15523df7167eeb4971d8167ca11e4394ede2e82963d0077eba1ac6c160"
         }
       ]
     }
