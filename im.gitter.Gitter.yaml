@@ -10,8 +10,14 @@ finish-args:
   - --device=dri
   - --share=ipc
   - --socket=x11
+  - --socket=wayland
+  - --socket=fallback-x11
   - --socket=pulseaudio
   - --share=network
+  # Notification access
+  - --talk-name=org.freedesktop.Notifications
+  # KDE Tray Icon
+  - --talk-name=org.kde.StatusNotifierWatcher
 modules:
   - name: gitter
     buildsystem: simple
