@@ -31,15 +31,12 @@ modules:
       - type: file
         only-arches:
           - x86_64
-        url: https://update.gitter.im/linux64/gitter_4.1.0_amd64.deb
-        sha256: 71f113104277682c6b1fd9a3f70533954363719e688ea4f3ff6c737f454cdebe
+        url: https://update.gitter.im/linux64/gitter_5.0.1_amd64.deb
+        sha256: 01be9f6df9bdac1c98f1391495795910d47c2b8815650112a131674cfd5449df
       - type: file
         only-arches:
           - i386
-        url: https://update.gitter.im/linux32/gitter_4.1.0_i386.deb
-        sha256: e3b23ef90937dd84ae538469ea2a89bc506f598ae6de0ef1177eb77e22fcd7d4
+        url: https://update.gitter.im/linux32/gitter_5.0.1_i386.deb
+        sha256: 9a89739cf256fe2a2f4821feab6aebdf80b99f53c27211ccccf3210827c3318c
       - type: file
         path: im.gitter.Gitter.appdata.xml
-      - type: archive
-        url: https://gitlab.com/gitlab-org/gitter/desktop/-/archive/4.1.0/desktop-4.1.0.tar.gz
-        sha256: a4bb8a15523df7167eeb4971d8167ca11e4394ede2e82963d0077eba1ac6c160
